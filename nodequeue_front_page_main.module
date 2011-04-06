@@ -1,0 +1,5 @@
+<?php
+/**
+ * @file
+ *   This module only exists to be installed and uninstalled.
+ */
