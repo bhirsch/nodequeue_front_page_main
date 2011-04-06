@@ -1,4 +1,4 @@
-name = Nodequeue: Front Page Maine
+name = Nodequeue: Front Page Main
 description = Create/Delete Front Page Main Nodequeue
 core = 6.x
 version = "6.x-1.0"
